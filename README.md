@@ -26,9 +26,7 @@ int main(int argc, char**argv){
 
 ```
 
-```
-
-c++
+```c++
 #include <GL/glut.h>
 
 void display(){
@@ -57,8 +55,10 @@ int main(int argc, char**argv){
 }
 
 ```
+
 week12
-```
+
+```c++
 #include <GL/glut.h>
 
 void display(){
