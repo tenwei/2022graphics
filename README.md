@@ -56,7 +56,7 @@ int main(int argc, char**argv){
 
 ```
 week08
-```
+```c++
 #include <GL/glut.h>
 
 const GLfloat light_ambient[]  = { 0.0f, 0.0f, 0.0f, 1.0f };
