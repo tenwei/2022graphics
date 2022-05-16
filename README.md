@@ -142,7 +142,7 @@ int main(int argc,char **argv){
 ```
 
 week13
-```cpp
+```c++
 #include <GL/glut.h>
 float angle[20], oldx = 0;
 int angleID = 0;
